@@ -43,6 +43,11 @@ A rule-based approach using HSV segmentation was implemented to estimate disease
 
 ## 4. Results
 The proposed system demonstrated strong performance on unseen test data, achieving high classification accuracy with minimal overfitting. The model exhibited consistent performance across all disease categories. Furthermore, the severity estimation module provided meaningful interpretability regarding disease progression.
+Performance Metrics (Test Set)
+Accuracy : 0.9188 
+Precision : 0.9187 
+Recall : 0.9188 
+F1-Score : 0.9181
 
 ## 5. Key Features
 - Hybrid feature extraction combining deep and handcrafted features  
